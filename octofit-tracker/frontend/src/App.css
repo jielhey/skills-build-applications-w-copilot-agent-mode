@@ -1,0 +1,39 @@
+
+body {
+  background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+  color: #222e50;
+}
+
+.App {
+  text-align: center;
+  background: rgba(255,255,255,0.85);
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(34,46,80,0.08);
+  padding: 2rem;
+}
+
+
+.octofit-logo {
+  height: 40px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #1a73e8;
+    font-weight: 700;
+  }
+
+  /* Tables */
+
+
+
